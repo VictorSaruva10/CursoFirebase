@@ -10,11 +10,13 @@
 
 .home-conteiner h1{
     font-size: 48px;
-    margin-bottom: 8px;
+    margin-bottom: 90px;
 }
 
 .home-conteiner span{
     margin-bottom: 28px;
+    font-size: 48px;
+
 }
 
 .form{
@@ -50,4 +52,11 @@
     height: 90px;
     resize: none;
     border-radius: 4px;
+}
+
+.button-link{
+    color: #b4b8bb;
+    text-decoration:  none;
+    margin: 14px 0;
+    font-size: 14px;
 }
